@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\bin\Debug\FuturePredict.exe.config
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\bin\Debug\FuturePredict.exe
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\bin\Debug\FuturePredict.pdb
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\obj\Debug\FuturePredict.Form1.resources
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\obj\Debug\FuturePredict.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\obj\Debug\FuturePredict.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\obj\Debug\FuturePredict.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\obj\Debug\FuturePredict.exe
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\obj\Debug\FuturePredict.pdb
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\bin\Debug\Predictionsdate.json
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\FuturePredict\FuturePredict\obj\Debug\FuturePredict.csproj.CopyComplete
